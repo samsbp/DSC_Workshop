@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DSC_Workshop</string>
+    <string name="activity_main">"activity main string resources"</string>
+</resources>
